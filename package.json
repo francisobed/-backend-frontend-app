@@ -1,0 +1,24 @@
+{
+  "name": "backend-fashion-app",
+  "version": "1.0.0",
+  "description": "Backend for an Ecommerce shop",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisobed/backend-fashion-app.git"
+  },
+  "author": "Francis Obed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francisobed/backend-fashion-app/issues"
+  },
+  "homepage": "https://github.com/francisobed/backend-fashion-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
